@@ -6,6 +6,8 @@ https://github.com/qiskit-advocate/qamp-spring-23/issues/17
 ### Description
 The idea is to design and implement reversible circuits for performing arithmetic operations such as Comparators, BCD Adders/Subtractors, Two's Complement Adder/Subtractor etc. And to build complex quantum circuits where these circuits can be used as subroutines.
 
+[Slide Deck](https://github.com/ManjulaGandhi/QAMP-Spring-2023/files/12035727/Final.Presentation.pdf)
+
 ### Collaborators
 1. [Vardaan Sahgal](https://linkedin.com/in/vardaansahgal) - M.Sc. Physics, Netaji Subhas University of Technology, India
 2. [Hitanshu Gedam](https://www.linkedin.com/in/hitanshu-gedam/) - First-year, B.Tech(CSE), Government College of Engineering, Nagpur, India
